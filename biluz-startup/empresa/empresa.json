@@ -1,0 +1,18 @@
+{
+  "nombre_comercial": "BILUZ",
+  "razon_social": "NOMBRE O RAZÓN SOCIAL DEL EMISOR",
+  "rfc": "XAXX010101000",
+  "regimen_fiscal": "626 - Régimen Simplificado de Confianza",
+  "domicilio_fiscal": "Calle, número, colonia, C.P. 00000, Municipio, Estado, México",
+  "lugar_expedicion_cp": "00000",
+  "telefono": "+52 000 000 0000",
+  "correo": "contacto@biluz.mx",
+  "sitio_web": "https://biluz.mx",
+  "moneda": "MXN",
+  "tasa_iva": 0.16,
+  "precios_incluyen_iva": true,
+  "serie_folio": "BLZ",
+  "garantia_dias": 90,
+  "aviso_privacidad_url": "https://biluz.mx/aviso-de-privacidad",
+  "leyenda_no_fiscal": "Este documento es una nota de venta y NO es un comprobante fiscal digital (CFDI). Si requiere factura, solicítela dentro del mes en que realizó su compra proporcionando su RFC, nombre, régimen fiscal, C.P. y uso de CFDI."
+}

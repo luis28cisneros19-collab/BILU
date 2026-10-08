@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-10-08T14:30:00",
+  "cliente": {
+    "nombre": "María López Hernández",
+    "telefono": "+52 55 1234 5678",
+    "correo": "maria@ejemplo.com"
+  },
+  "conceptos": [
+    {"clave": "NFC-MET-NEG", "cantidad": 2, "personalizacion": "Logo + nombre grabado, enlace a perfil digital"},
+    {"clave": "SRV-DISENO", "cantidad": 1},
+    {"clave": "ENV-NAL", "cantidad": 1}
+  ],
+  "descuento": 100,
+  "anticipo": 1000,
+  "forma_pago": "03",
+  "fecha_entrega": "2026-10-15",
+  "observaciones": "Diseño aprobado por WhatsApp el 2026-10-08."
+}

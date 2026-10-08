@@ -1,0 +1,6 @@
+# Notas reales de clientes: contienen datos personales, no se suben al repositorio.
+# Respáldalas aparte (mínimo 5 años, art. 30 CFF).
+notas/generadas/*.html
+notas/registro.csv
+notas/folio.txt
+__pycache__/

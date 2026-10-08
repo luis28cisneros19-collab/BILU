@@ -1,0 +1,15 @@
+{
+  "_nota": "Precios de ejemplo en MXN. Ajusta claves, descripciones y precios a tu lista real.",
+  "productos": [
+    {"clave": "NFC-PVC-STD",  "descripcion": "Tarjeta NFC PVC personalizada (NTAG213, impresión a color 2 caras, 85.60 x 53.98 mm)", "unidad": "PZA", "precio": 249.00},
+    {"clave": "NFC-PVC-MATE", "descripcion": "Tarjeta NFC PVC acabado mate premium (NTAG215)",                                     "unidad": "PZA", "precio": 349.00},
+    {"clave": "NFC-MET-NEG",  "descripcion": "Tarjeta NFC metálica negra grabada láser (NTAG216)",                                 "unidad": "PZA", "precio": 899.00},
+    {"clave": "NFC-MAD-BAM",  "descripcion": "Tarjeta NFC de bambú grabada láser (NTAG213)",                                      "unidad": "PZA", "precio": 449.00},
+    {"clave": "NFC-STK-25",   "descripcion": "Sticker NFC personalizado 25 mm (NTAG213)",                                          "unidad": "PZA", "precio": 79.00},
+    {"clave": "NFC-LLV",      "descripcion": "Llavero NFC personalizado (NTAG213)",                                                "unidad": "PZA", "precio": 199.00},
+    {"clave": "SRV-PERFIL",   "descripcion": "Configuración de perfil digital / tarjeta virtual (1 año)",                          "unidad": "SERV", "precio": 299.00},
+    {"clave": "SRV-DISENO",   "descripcion": "Diseño gráfico personalizado de tarjeta",                                            "unidad": "SERV", "precio": 350.00},
+    {"clave": "SRV-REPROG",   "descripcion": "Reprogramación de chip NFC (URL / vCard)",                                           "unidad": "SERV", "precio": 99.00},
+    {"clave": "ENV-NAL",      "descripcion": "Envío nacional",                                                                     "unidad": "SERV", "precio": 150.00}
+  ]
+}
